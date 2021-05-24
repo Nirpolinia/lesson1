@@ -4,5 +4,6 @@ a = list[ 0 ]
 print (a)
 b = list [-1]
 print(b)
-del list [-1]
 print (list)
+del list [-1]
+print(list[1:5])
